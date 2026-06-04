@@ -1,7 +1,11 @@
 # The Epstein Files Project
 
 ## Overview
-
+<p align="center">
+  <a href="https://youtu.be/gRJmZwW9UAQ">
+    <img src="https://img.youtube.com/vi/gRJmZwW9UAQ/maxresdefault.jpg" alt="Watch the video">
+  </a>
+</p>
 The Epstein Files Project is an independent archival and research initiative focused on organizing, processing, and making publicly released Epstein-related documents more accessible and searchable for researchers, journalists, and the general public.
 
 The goal of the project was not simply to collect PDF files, but to transform a difficult-to-navigate release of scanned documents into a structured research system capable of:
